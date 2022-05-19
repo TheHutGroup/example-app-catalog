@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  thg-java-example-app:
+  - apiVersion: v2
+    appVersion: v0.0.13
+    created: "2022-05-19T12:20:28.891348721Z"
+    description: A Helm chart for Kubernetes
+    digest: c714de7e0f6d692494f3f18328dfdc3f4c72bf3f34b9ce1ca28078478ff1f897
+    name: thg-java-example-app
+    type: application
+    urls:
+    - https://TheHutGroup.github.io/example-app-catalog/thg-java-example-app-0.0.14.tgz
+    version: 0.0.14
+generated: "2022-05-19T12:20:28.889502297Z"
