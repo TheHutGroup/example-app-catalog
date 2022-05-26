@@ -3,7 +3,17 @@ entries:
   thg-java-example-app:
   - apiVersion: v2
     appVersion: v0.0.13
-    created: "2022-05-25T15:27:19.626459433Z"
+    created: "2022-05-26T13:44:54.591956105Z"
+    description: A Helm chart for Kubernetes
+    digest: 7fdc01aa5e484f9e50df8935d4182ab11e8ea1fff66fb3fe00be85e69d9862e7
+    name: thg-java-example-app
+    type: application
+    urls:
+    - https://TheHutGroup.github.io/example-app-catalog/thg-java-example-app-0.0.23.tgz
+    version: 0.0.23
+  - apiVersion: v2
+    appVersion: v0.0.13
+    created: "2022-05-26T13:44:54.591378703Z"
     description: A Helm chart for Kubernetes
     digest: dc688ab16c29dca0c2372b401b6fadc6241bfba3d97e0a7331c0c66891c7c25f
     name: thg-java-example-app
@@ -13,7 +23,7 @@ entries:
     version: 0.0.21
   - apiVersion: v2
     appVersion: v0.0.13
-    created: "2022-05-25T15:27:19.625905429Z"
+    created: "2022-05-26T13:44:54.590830101Z"
     description: A Helm chart for Kubernetes
     digest: 7d3dc8cbe1a4feb94360e30d8cde6d332ee5c06230cd2e0a0e23076ea4044b00
     name: thg-java-example-app
@@ -23,7 +33,7 @@ entries:
     version: 0.0.20
   - apiVersion: v2
     appVersion: v0.0.13
-    created: "2022-05-25T15:27:19.625363424Z"
+    created: "2022-05-26T13:44:54.5902338Z"
     description: A Helm chart for Kubernetes
     digest: ffa28ec4d1d797de30b476979ed4d640f878bb7ecd005af14c25784745a5e1f3
     name: thg-java-example-app
@@ -33,7 +43,7 @@ entries:
     version: 0.0.19
   - apiVersion: v2
     appVersion: v0.0.13
-    created: "2022-05-25T15:27:19.624730919Z"
+    created: "2022-05-26T13:44:54.589659798Z"
     description: A Helm chart for Kubernetes
     digest: 76160b1753c8d81b5e7f8601524edf4c2557279c0571a9692159cf275c68e1ce
     name: thg-java-example-app
@@ -43,7 +53,7 @@ entries:
     version: 0.0.17
   - apiVersion: v2
     appVersion: v0.0.13
-    created: "2022-05-25T15:27:19.624114714Z"
+    created: "2022-05-26T13:44:54.589092197Z"
     description: A Helm chart for Kubernetes
     digest: 812ab278849dae928e008e85486aec3629b34508b287bc92aad63a6ac613276d
     name: thg-java-example-app
@@ -53,7 +63,7 @@ entries:
     version: 0.0.16
   - apiVersion: v2
     appVersion: v0.0.13
-    created: "2022-05-25T15:27:19.623543409Z"
+    created: "2022-05-26T13:44:54.588541095Z"
     description: A Helm chart for Kubernetes
     digest: eb207fa58e8902ccacfdf48d769dc22607edac9eca2fce5850bdf5653d9c9999
     name: thg-java-example-app
@@ -63,7 +73,7 @@ entries:
     version: 0.0.15
   - apiVersion: v2
     appVersion: v0.0.13
-    created: "2022-05-25T15:27:19.622641402Z"
+    created: "2022-05-26T13:44:54.587957394Z"
     description: A Helm chart for Kubernetes
     digest: c714de7e0f6d692494f3f18328dfdc3f4c72bf3f34b9ce1ca28078478ff1f897
     name: thg-java-example-app
@@ -71,4 +81,4 @@ entries:
     urls:
     - https://TheHutGroup.github.io/example-app-catalog/thg-java-example-app-0.0.14.tgz
     version: 0.0.14
-generated: "2022-05-25T15:27:19.620867387Z"
+generated: "2022-05-26T13:44:54.587162691Z"
